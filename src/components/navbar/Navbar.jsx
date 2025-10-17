@@ -125,7 +125,7 @@ export const Navbar = ({ sitevisitmodal, setSiteVisitModal, setContactModal }) =
           <div className="hidden lg:flex items-center">
             <a
               href="tel:+916364254487"
-              className="flex items-center bg-[#B01E33] text-white px-4 py-2 rounded-lg shadow-lg hover:bg-opacity-90 transition"
+              className="flex items-center bg-[#8A1527] text-white px-4 py-2 rounded-lg shadow-lg hover:bg-opacity-90 transition"
             >
               <Phone className="w-5 h-5 mr-2" />63642 54487
             </a>
