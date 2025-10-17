@@ -60,7 +60,7 @@ export const Home = ({ openContactModal }) => {
               <div className="flex gap-4 flex-col w-full">
                 {/* Main Title */}
                 <h1 className="font-subheading text-3xl md:text-6xl font-semibold uppercase">
-                 Century Marathahalli
+                 Century Silicon City
                 </h1>
 
                 {/* Subtitle */}
