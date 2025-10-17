@@ -25,9 +25,10 @@ Century Marathahalli: The Most Awaited Launch in East Bangalore
           <br />
           
             <span>
-        <br />    <p>Century Marathahalli is an exclusive 15-acre integrated township located right opposite Sankara Eye Hospital, Marathahalli. With launch pricing starting at ₹15,750 per sq. ft. (all inclusive) for the first 100 buyers, it offers premium 2, 2.5, 3, and 4 BHK homes thoughtfully designed to blend comfort and elegance.<p/>
+        <br />    <p> This project offers an unbeatable location in Marathahalli, East Bangalore with seamless connectivity to Outer Ring Road, Whitefield, Bellandur, and major IT hubs. It’s surrounded by top schools, shopping avenues, and lifestyle destinations, ensuring a convenient yet upscale urban living experience.
+<p/>
             <br/>
-            <p>The project features 10 acres of residential development and 5 acres dedicated to commercial spaces, creating a self-sustained community where you can live, work, and unwind. Its prime location ensures easy connectivity to Outer Ring Road, Whitefield, and Bellandur, making it ideal for professionals and families alike. </p></p>
+            <p>Spanning 15 acres, the development features a mixed-use layout with 10 acres of premium residences and 5 acres of commercial space. Phase 1 includes 450 spacious apartments out of a total of 850 units, spread across 5 iconic towers (G + 15 / 16 floors). Home sizes range from 1600 – 2200 sqft, with 3 and 4 BHK options available. Backed by the trusted Century Estates brand, this project assures quality, design excellence, and long-term value. </p></p>
 
             
 
